@@ -1,0 +1,6 @@
+{
+  "name": "Muziek Karaoke Quiz",
+  "description": "Een interactieve muziek karaoke quiz in Spotify-stijl, waar spelers elkaars zangkunsten beoordelen en punten verzamelen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
